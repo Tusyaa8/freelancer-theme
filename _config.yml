@@ -42,20 +42,17 @@ social:
   - title: youtube
     url: https://www.youtube.com/@tusyaa8
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
+    url: https://www.youtube.com/@tusyaa8
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: https://www.youtube.com/@tusyaa8
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://www.youtube.com/@tusyaa8
   - title: github
-    url: http://github.com/jekyll
+    url: https://www.youtube.com/@tusyaa8
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Anonymous
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
