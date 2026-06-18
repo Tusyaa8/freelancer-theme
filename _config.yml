@@ -39,6 +39,8 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: youtube
+    url: https://www.youtube.com/@tusyaa8
   - title: twitter
     url: http://twitter.com/jekyllrb
   - title: facebook
